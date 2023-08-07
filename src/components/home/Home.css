@@ -1,0 +1,21 @@
+.Home {
+    height: 100vh;
+    margin: 0;
+}
+
+.split-container {
+    display: flex;
+    height: 100%;
+}
+
+.left {
+    flex: 7;
+    
+}
+
+.right {
+    flex: 3;
+
+}
+  
+
